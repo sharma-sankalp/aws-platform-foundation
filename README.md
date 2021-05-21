@@ -1,2 +1,2 @@
-# Aws_Project
-It contains the architecture details and doc files related to Aws solution architect project
+# AWS_Project
+This contains the key project details and the documents required to implement it.
