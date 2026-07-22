@@ -1,0 +1,6 @@
+{
+  "Sid": "SNSPublish",
+  "Effect": "Allow",
+  "Action": "sns:Publish",
+  "Resource": "arn:aws:sns:<region>:<account-id>:<topic-name>"
+}
