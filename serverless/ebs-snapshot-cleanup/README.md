@@ -12,6 +12,8 @@ This helps reduce storage costs while ensuring that recent snapshots remain avai
 
 ## Architecture
 
+```
+
 EventBridge Schedule
 
 ↓
@@ -33,6 +35,8 @@ Publish SNS Notification
 ↓
 
 CloudWatch Logs
+
+```
 
 ---
 
