@@ -12,6 +12,28 @@ This helps reduce storage costs while ensuring that recent snapshots remain avai
 
 ## Architecture
 
+EventBridge Schedule
+
+↓
+
+AWS Lambda
+
+↓
+
+Describe EBS Snapshots
+
+↓
+
+Delete Expired Snapshots
+
+↓
+
+Publish SNS Notification
+
+↓
+
+CloudWatch Logs
+
 ---
 
 ## Objectives
